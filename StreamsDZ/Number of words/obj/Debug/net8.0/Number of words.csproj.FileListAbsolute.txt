@@ -1,0 +1,14 @@
+D:\Rider pg\ride prochekt\StreamsDZ\Number of words\obj\Debug\net8.0\Number of words.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rider pg\ride prochekt\StreamsDZ\Number of words\obj\Debug\net8.0\Number of words.AssemblyInfoInputs.cache
+D:\Rider pg\ride prochekt\StreamsDZ\Number of words\obj\Debug\net8.0\Number of words.AssemblyInfo.cs
+D:\Rider pg\ride prochekt\StreamsDZ\Number of words\obj\Debug\net8.0\Number of words.csproj.CoreCompileInputs.cache
+D:\Rider pg\ride prochekt\StreamsDZ\Number of words\bin\Debug\net8.0\Number of words.exe
+D:\Rider pg\ride prochekt\StreamsDZ\Number of words\bin\Debug\net8.0\Number of words.deps.json
+D:\Rider pg\ride prochekt\StreamsDZ\Number of words\bin\Debug\net8.0\Number of words.runtimeconfig.json
+D:\Rider pg\ride prochekt\StreamsDZ\Number of words\bin\Debug\net8.0\Number of words.dll
+D:\Rider pg\ride prochekt\StreamsDZ\Number of words\bin\Debug\net8.0\Number of words.pdb
+D:\Rider pg\ride prochekt\StreamsDZ\Number of words\obj\Debug\net8.0\Number of words.dll
+D:\Rider pg\ride prochekt\StreamsDZ\Number of words\obj\Debug\net8.0\refint\Number of words.dll
+D:\Rider pg\ride prochekt\StreamsDZ\Number of words\obj\Debug\net8.0\Number of words.pdb
+D:\Rider pg\ride prochekt\StreamsDZ\Number of words\obj\Debug\net8.0\Number of words.genruntimeconfig.cache
+D:\Rider pg\ride prochekt\StreamsDZ\Number of words\obj\Debug\net8.0\ref\Number of words.dll

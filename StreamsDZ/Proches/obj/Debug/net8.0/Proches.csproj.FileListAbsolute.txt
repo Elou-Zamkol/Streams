@@ -1,0 +1,14 @@
+D:\Rider pg\ride prochekt\StreamsDZ\Proches\bin\Debug\net8.0\Proches.exe
+D:\Rider pg\ride prochekt\StreamsDZ\Proches\bin\Debug\net8.0\Proches.deps.json
+D:\Rider pg\ride prochekt\StreamsDZ\Proches\bin\Debug\net8.0\Proches.runtimeconfig.json
+D:\Rider pg\ride prochekt\StreamsDZ\Proches\bin\Debug\net8.0\Proches.dll
+D:\Rider pg\ride prochekt\StreamsDZ\Proches\bin\Debug\net8.0\Proches.pdb
+D:\Rider pg\ride prochekt\StreamsDZ\Proches\obj\Debug\net8.0\Proches.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rider pg\ride prochekt\StreamsDZ\Proches\obj\Debug\net8.0\Proches.AssemblyInfoInputs.cache
+D:\Rider pg\ride prochekt\StreamsDZ\Proches\obj\Debug\net8.0\Proches.AssemblyInfo.cs
+D:\Rider pg\ride prochekt\StreamsDZ\Proches\obj\Debug\net8.0\Proches.csproj.CoreCompileInputs.cache
+D:\Rider pg\ride prochekt\StreamsDZ\Proches\obj\Debug\net8.0\Proches.dll
+D:\Rider pg\ride prochekt\StreamsDZ\Proches\obj\Debug\net8.0\refint\Proches.dll
+D:\Rider pg\ride prochekt\StreamsDZ\Proches\obj\Debug\net8.0\Proches.pdb
+D:\Rider pg\ride prochekt\StreamsDZ\Proches\obj\Debug\net8.0\Proches.genruntimeconfig.cache
+D:\Rider pg\ride prochekt\StreamsDZ\Proches\obj\Debug\net8.0\ref\Proches.dll

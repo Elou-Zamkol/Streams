@@ -1,0 +1,14 @@
+D:\Rider pg\ride prochekt\StreamsDZ\Calculator\bin\Debug\net8.0\Calculator.exe
+D:\Rider pg\ride prochekt\StreamsDZ\Calculator\bin\Debug\net8.0\Calculator.deps.json
+D:\Rider pg\ride prochekt\StreamsDZ\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+D:\Rider pg\ride prochekt\StreamsDZ\Calculator\bin\Debug\net8.0\Calculator.dll
+D:\Rider pg\ride prochekt\StreamsDZ\Calculator\bin\Debug\net8.0\Calculator.pdb
+D:\Rider pg\ride prochekt\StreamsDZ\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rider pg\ride prochekt\StreamsDZ\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+D:\Rider pg\ride prochekt\StreamsDZ\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+D:\Rider pg\ride prochekt\StreamsDZ\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Rider pg\ride prochekt\StreamsDZ\Calculator\obj\Debug\net8.0\Calculator.dll
+D:\Rider pg\ride prochekt\StreamsDZ\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+D:\Rider pg\ride prochekt\StreamsDZ\Calculator\obj\Debug\net8.0\Calculator.pdb
+D:\Rider pg\ride prochekt\StreamsDZ\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+D:\Rider pg\ride prochekt\StreamsDZ\Calculator\obj\Debug\net8.0\ref\Calculator.dll
